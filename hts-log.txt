@@ -1,0 +1,60 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sun, 18 Oct 2020 16:26:37 at https://themes.muffingroup.com/be/artist3/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://themes.muffingroup.com/be/artist3/ -O1 "C:\Users\Tweek\Desktop\Proj" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+16:27:20	Error: 	"Forbidden" (403) at link https://themes.muffingroup.com/be/artist3/xmlrpc.php?rsd (from https://themes.muffingroup.com/be/artist3/)
+16:28:10	Warning: 	File not parsed, looks like binary: https://themes.muffingroup.com/be/artist3/wp-content/plugins/revslider/public/assets/css/openhand.cur
+16:28:10	Warning: 	File not parsed, looks like binary: https://themes.muffingroup.com/be/artist3/wp-content/plugins/revslider/public/assets/css/closedhand.cur
+16:28:10	Error: 	"Not Found" (404) at link https://themes.muffingroup.com/be/artist3/images/transparent.png (from https://themes.muffingroup.com/be/artist3/wp-content/cache/minify/42519.js)
+16:28:10	Error: 	"Not Found" (404) at link https://themes.muffingroup.com/be/artist3/assets/transparent.png (from https://themes.muffingroup.com/be/artist3/wp-content/cache/minify/42519.js)
+16:28:10	Warning: 	Moved Permanently for https://themes.muffingroup.com/be/artist3/origin=https://
+16:28:10	Warning: 	Redirected link is identical because of 'URL Hack' option: https://themes.muffingroup.com/be/artist3/origin=https:// and https://themes.muffingroup.com/be/artist3/origin=https:/
+16:28:10	Warning: 	File has moved from https://themes.muffingroup.com/be/artist3/origin=https:// to https://themes.muffingroup.com/be/artist3/origin=https:/
+16:28:31	Warning: 	Moved Permanently for https://themes.muffingroup.com/be/artist3/?p=14
+16:28:31	Warning: 	File has moved from https://themes.muffingroup.com/be/artist3/?p=14 to https://themes.muffingroup.com/be/artist3/about-me/
+16:28:31	Warning: 	Moved Permanently for https://themes.muffingroup.com/be/artist3/?p=16
+16:28:31	Warning: 	File has moved from https://themes.muffingroup.com/be/artist3/?p=16 to https://themes.muffingroup.com/be/artist3/process/
+16:28:31	Warning: 	Moved Permanently for https://themes.muffingroup.com/be/artist3/?p=18
+16:28:31	Warning: 	File has moved from https://themes.muffingroup.com/be/artist3/?p=18 to https://themes.muffingroup.com/be/artist3/contact/
+16:28:33	Warning: 	Moved Permanently for https://themes.muffingroup.com/be/artist3/?p=8
+16:28:33	Warning: 	File has moved from https://themes.muffingroup.com/be/artist3/?p=8 to https://themes.muffingroup.com/be/artist3/cart/
+16:28:34	Warning: 	Moved Permanently for https://themes.muffingroup.com/be/artist3/?p=60
+16:28:34	Warning: 	File has moved from https://themes.muffingroup.com/be/artist3/?p=60 to https://themes.muffingroup.com/be/artist3/product/cras-accumsan/
+16:28:38	Warning: 	Moved Permanently for https://themes.muffingroup.com/be/artist3/?p=54
+16:28:38	Warning: 	File has moved from https://themes.muffingroup.com/be/artist3/?p=54 to https://themes.muffingroup.com/be/artist3/product/cras-iaculis-eros/
+16:28:41	Warning: 	Moved Permanently for https://themes.muffingroup.com/be/artist3/?p=55
+16:28:41	Warning: 	File has moved from https://themes.muffingroup.com/be/artist3/?p=55 to https://themes.muffingroup.com/be/artist3/product/donec-porttitor/
+16:28:43	Warning: 	Moved Permanently for https://themes.muffingroup.com/be/artist3/?p=58
+16:28:43	Warning: 	File has moved from https://themes.muffingroup.com/be/artist3/?p=58 to https://themes.muffingroup.com/be/artist3/product/etiam-quis-leo/
+16:28:47	Warning: 	Moved Permanently for https://themes.muffingroup.com/be/artist3/?p=32
+16:28:47	Warning: 	File has moved from https://themes.muffingroup.com/be/artist3/?p=32 to https://themes.muffingroup.com/be/artist3/product/lorem-ipsum-dolor/
+16:28:48	Warning: 	Moved Permanently for https://themes.muffingroup.com/be/artist3/?p=64
+16:28:48	Warning: 	File has moved from https://themes.muffingroup.com/be/artist3/?p=64 to https://themes.muffingroup.com/be/artist3/product/magna-tempor/
+16:28:50	Warning: 	Moved Permanently for https://themes.muffingroup.com/be/artist3/?p=53
+16:28:50	Warning: 	File has moved from https://themes.muffingroup.com/be/artist3/?p=53 to https://themes.muffingroup.com/be/artist3/product/mauris-placerat/
+16:28:53	Warning: 	Moved Permanently for https://themes.muffingroup.com/be/artist3/?p=57
+16:28:53	Warning: 	File has moved from https://themes.muffingroup.com/be/artist3/?p=57 to https://themes.muffingroup.com/be/artist3/product/nulla-eu-elit/
+16:28:55	Warning: 	Moved Permanently for https://themes.muffingroup.com/be/artist3/?p=62
+16:28:55	Warning: 	File has moved from https://themes.muffingroup.com/be/artist3/?p=62 to https://themes.muffingroup.com/be/artist3/product/nunc-sodales/
+16:28:57	Warning: 	Moved Permanently for https://themes.muffingroup.com/be/artist3/?p=56
+16:28:57	Warning: 	File has moved from https://themes.muffingroup.com/be/artist3/?p=56 to https://themes.muffingroup.com/be/artist3/product/pellentesque-sed/
+16:28:59	Warning: 	Moved Permanently for https://themes.muffingroup.com/be/artist3/?p=63
+16:28:59	Warning: 	File has moved from https://themes.muffingroup.com/be/artist3/?p=63 to https://themes.muffingroup.com/be/artist3/product/risus-congue-viverra/
+16:29:02	Warning: 	Moved Permanently for https://themes.muffingroup.com/be/artist3/?p=61
+16:29:02	Warning: 	File has moved from https://themes.muffingroup.com/be/artist3/?p=61 to https://themes.muffingroup.com/be/artist3/product/sed-id-leo/
+16:29:03	Warning: 	Moved Permanently for https://themes.muffingroup.com/be/artist3/?p=59
+16:29:03	Warning: 	File has moved from https://themes.muffingroup.com/be/artist3/?p=59 to https://themes.muffingroup.com/be/artist3/product/sed-lectus/
+16:29:05	Warning: 	Moved Permanently for https://themes.muffingroup.com/be/artist3/?p=52
+16:29:05	Warning: 	File has moved from https://themes.muffingroup.com/be/artist3/?p=52 to https://themes.muffingroup.com/be/artist3/product/vicamus-tincidunt/
+16:29:08	Error: 	"Not Found" (404) at link https://themes.muffingroup.com/be/artist3/cart/images/transparent.png (from https://themes.muffingroup.com/be/artist3/wp-content/plugins/revslider/public/assets/js/rs6.min.js)
+16:29:08	Error: 	"Not Found" (404) at link https://themes.muffingroup.com/be/artist3/cart/assets/transparent.png (from https://themes.muffingroup.com/be/artist3/wp-content/plugins/revslider/public/assets/js/rs6.min.js)
+16:29:08	Warning: 	Moved Permanently for https://themes.muffingroup.com/be/artist3/cart/origin=https://
+16:29:08	Warning: 	Redirected link is identical because of 'URL Hack' option: https://themes.muffingroup.com/be/artist3/cart/origin=https:// and https://themes.muffingroup.com/be/artist3/cart/origin=https:/
+16:29:08	Warning: 	File has moved from https://themes.muffingroup.com/be/artist3/cart/origin=https:// to https://themes.muffingroup.com/be/artist3/cart/origin=https:/
+
+HTTrack Website Copier/3.49-2 mirror complete in 2 minutes 56 seconds : 519 links scanned, 493 files written (38440228 bytes overall) [13244136 bytes received at 75250 bytes/sec], 31960993 bytes transferred using HTTP compression in 363 files, ratio 18%, 47.4 requests per connection
+(5 errors, 44 warnings, 0 messages)

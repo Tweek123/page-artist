@@ -1,0 +1,8 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+themes.muffingroup.com	TRUE	/be/artist3/	FALSE	1999999999	woocommerce_items_in_cart	1
+themes.muffingroup.com	TRUE	/be/artist3/	FALSE	1999999999	wp_woocommerce_session_e43c9ece586e2c4afa74725da00b0628	0c1e55fa0f20fc9c0aa77f9eb196c77e%7C%7C1603200408%7C%7C1603196808%7C%7Cf3c2ccaecd46a6929a5571341e37f11c
+themes.muffingroup.com	TRUE	/be/artist3/	FALSE	1999999999	woocommerce_cart_hash	748bb128e38991a06d22d4c539071d7b
+.muffingroup.com	TRUE	/	FALSE	1999999999	__cfduid	dec84bd6197a65cbdc326821fc6c944281603027593
+themes.muffingroup.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+
